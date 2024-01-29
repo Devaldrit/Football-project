@@ -1,0 +1,70 @@
+
+.display-1 {
+    text-align: center;
+}
+ .box-red {
+     background-color: #BF3030;
+     color: white;
+     border-radius: 5px;
+     width: 200px;
+     height: 200px;
+     border: double;
+     margin: 100px;
+ }
+
+ .box-blue {
+     background-color: #1E90FF;
+     color: white;
+     border-radius: 5px;
+     width: 200px;
+     height: 200px;
+     border: double;
+     margin: 100px;
+ }
+
+ .box-green {
+     background-color: green;
+     color: white;
+     border-radius: 5px;
+     width: 200px;
+     height: 250px;
+     border: double;
+     margin: 100px;
+ }
+
+ .redboxes {
+    display: block;
+    gap: 10px;
+    margin-bottom: 10px;
+    text-align: -webkit-center;
+ }
+ 
+ .blueboxes {
+    display:block;
+    gap: 10px;
+    margin-bottom: 10px;
+    text-align: -webkit-center;
+ }
+ 
+ .greenboxes {
+    display:block;
+    gap: 10px;
+    margin-bottom: 10px;
+    text-align: -webkit-center;
+ }
+
+ .display-1 {
+    color: green;
+ }
+ .salaire-box {
+    text-align: center;
+    
+ }
+ .salaire{
+    text-align: center;
+    border: solid;
+    height: 100px;
+    width: 1100px;
+    margin-left: 50px;
+ }
+ 
